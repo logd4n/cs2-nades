@@ -1,0 +1,3 @@
+Version 0.1.0 alpha
+
+- Добавлены 2 карты: Anubis, Inferno
