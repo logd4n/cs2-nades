@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Pictures">
+        <file>Pictures/Mirage_logo.png</file>
+        <file>Pictures/Anubis_logo.png</file>
+        <file>Pictures/Inferno_logo.png</file>
+        <file>Pictures/Vertigo_logo.png</file>
+    </qresource>
+    <qresource prefix="/Mirage">
+        <file>Pictures/Mirage/test.jpg</file>
+        <file>Pictures/Mirage/gif_test.gif</file>
+    </qresource>
+</RCC>
